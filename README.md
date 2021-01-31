@@ -1,4 +1,4 @@
-# A Novel Deep Learning System for Detecting Diabetic Retinopathy across the Disease Spectrum
+# A Deep Learning System for Detecting Diabetic Retinopathy across the Disease Spectrum
 
 ## Contents
 
